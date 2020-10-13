@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp
+END
+InlineTemp.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp/InlineTemp.jrag
+END
+InlineAssignment.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp/InlineAssignment.jrag
+END
+InlineConstant.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp/InlineConstant.jrag
+END
+RemoveUnusedLocal.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp/RemoveUnusedLocal.jrag
+END
+SplitVarDecl.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineTemp/SplitVarDecl.jrag
+END

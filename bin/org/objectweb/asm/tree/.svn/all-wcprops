@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree
+END
+LdcInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/LdcInsnNode.java
+END
+FrameNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/FrameNode.java
+END
+AbstractInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/AbstractInsnNode.java
+END
+MultiANewArrayInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/MultiANewArrayInsnNode.java
+END
+TryCatchBlockNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/TryCatchBlockNode.java
+END
+InsnList.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/InsnList.java
+END
+LocalVariableNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/LocalVariableNode.java
+END
+LineNumberNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/LineNumberNode.java
+END
+InnerClassNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/InnerClassNode.java
+END
+TableSwitchInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/TableSwitchInsnNode.java
+END
+JumpInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/JumpInsnNode.java
+END
+InsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/InsnNode.java
+END
+MethodInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/MethodInsnNode.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/package.html
+END
+TypeInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/TypeInsnNode.java
+END
+IincInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/IincInsnNode.java
+END
+AnnotationNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/AnnotationNode.java
+END
+FieldInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/FieldInsnNode.java
+END
+LabelNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/LabelNode.java
+END
+VarInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/VarInsnNode.java
+END
+IntInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/IntInsnNode.java
+END
+LookupSwitchInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/LookupSwitchInsnNode.java
+END
+InvokeDynamicInsnNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/InvokeDynamicInsnNode.java
+END

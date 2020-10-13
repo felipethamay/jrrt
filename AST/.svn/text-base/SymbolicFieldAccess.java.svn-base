@@ -1,0 +1,191 @@
+package AST;
+
+import java.util.HashSet;
+import java.io.File;
+import java.util.*;
+import beaver.*;
+import java.util.ArrayList;
+import java.util.zip.*;
+import java.io.*;
+import java.io.FileNotFoundException;
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Collections;
+import jp.ac.kobe_u.cs.cream.Network;
+import jp.ac.kobe_u.cs.cream.IntVariable;
+import jp.ac.kobe_u.cs.cream.Constraint;
+import jp.ac.kobe_u.cs.cream.Equals;
+import jp.ac.kobe_u.cs.cream.NotEquals;
+import jp.ac.kobe_u.cs.cream.IntComparison;
+import jp.ac.kobe_u.cs.cream.DefaultSolver;
+import jp.ac.kobe_u.cs.cream.Solution;
+import jp.ac.kobe_u.cs.cream.IntArith;
+import java.util.Map;
+import java.util.Arrays;
+import tests.CompileHelper;
+import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBException;
+import javax.xml.bind.Unmarshaller;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
+/**
+  * @ast class
+ * 
+ */
+public class SymbolicFieldAccess extends java.lang.Object implements SymbolicVarAccess {
+
+		private FieldDeclaration target;
+
+
+		private TypeDecl source;
+
+
+		private TypeDecl bend;
+
+
+		private boolean directlyVisible;
+
+  // i.e., neither shadowed nor hidden
+		
+		public SymbolicFieldAccess(FieldDeclaration target) {
+			this.target = target;
+			this.source = target.hostType();
+			this.bend = target.hostType();
+			this.directlyVisible = true;
+		}
+
+
+		
+		public TypeDecl getSource() { return source; }
+
+
+		public TypeDecl getBend() { return bend; }
+
+
+		
+		public SymbolicFieldAccess moveDownTo(TypeDecl td) {
+			bend = td;
+			if(!td.localFields(target.name()).isEmpty() || td.ambiguousFieldName(target.name()))
+				directlyVisible = false;
+			else if(directlyVisible)
+				source = td;
+			return this;
+		}
+
+
+		
+		public SymbolicFieldAccess moveInto(Scope s) {
+			if(s.hasVariable(target.name()))
+				directlyVisible = false;
+			return this;
+		}
+
+
+		
+		public SymbolicFieldAccess ensureStatic() {
+			return target.isStatic() ? this : target.unknownVarAccess();
+		}
+
+
+		
+		public SymbolicFieldAccess ensureFinal() {
+			return target.isFinal() ? this : target.unknownVarAccess();
+		}
+
+
+		
+		public SymbolicFieldAccess ensureAccessible(Expr e) {
+			if(target instanceof FieldDeclaration && e.mayAccess((FieldDeclaration)target))
+				return this;
+			return target.unknownVarAccess();
+		}
+
+
+		
+		public boolean isUnknownVarAccess() { return false; }
+
+public Access accessByModifyingAccess(VarAccess originalAccess) {
+		assert originalAccess != null;
+		Expr qualifier = originalAccess.getQualifier();
+		TypeDecl enclosing = originalAccess.hostType();
+		VarAccess va = originalAccess;
+		va.flushCache();
+		
+		Expr to_replace = qualifier == null ? originalAccess : originalAccess.parentDot(); 
+		Access access = null;
+		ASTNode parent = to_replace.replace(to_replace);
+		
+		if(target.isStatic()) {
+			if (qualifier == null || qualifier.type() != target.hostType()) {
+				Access hostAccess = target.hostType().createLockedAccess();
+				parent.affectedByUnlock(hostAccess, va);
+				access = hostAccess.qualifiesAccess(va);
+			} else {
+				access = va;
+			}
+		} else {
+			if(directlyVisible) {
+				access = va;
+			} else {
+				if(qualifier == null) {
+					if(source.equals(bend)) {
+						if(bend.equals(enclosing)) {                                         	// this.f
+							parent.affectedByUnlock(va);
+							access = new ThisAccess("this").qualifiesAccess(va);
+						} else {                                                                // B.this.f
+							Access bendAccess = bend.createLockedAccess();
+							parent.affectedByUnlock(bendAccess, va);
+							access = bendAccess.qualifiesAccess(new ThisAccess("this").qualifiesAccess(va));
+						}
+					} else if(bend.isClassDecl() && source.equals(((ClassDecl)bend).superclass())) {
+						if(bend.equals(enclosing)) {                                            // super.f
+							parent.affectedByUnlock(va);
+							access = new SuperAccess("super").qualifiesAccess(va);
+						} else {                               									// B.super.f
+							Access bendAccess = bend.createLockedAccess();
+							parent.affectedByUnlock(bendAccess, va);
+							access = bendAccess.qualifiesAccess(new SuperAccess("super").qualifiesAccess(va));
+						}
+					} else {
+						va.lock(target);
+						if(bend.equals(enclosing)) {											// ((S)this).f
+							Access sourceAccess = source.createLockedAccess();
+							parent.affectedByUnlock(sourceAccess, va);
+							access = new ParExpr(new CastExpr(sourceAccess,                     
+									new ThisAccess("this"))).qualifiesAccess(va);
+						} else {																// ((S)B.this).f
+							Access sourceAccess = source.createLockedAccess(),
+								   bendAccess = bend.createLockedAccess();
+							parent.affectedByUnlock(sourceAccess, bendAccess, va);
+							access = new ParExpr(new CastExpr(sourceAccess,                    
+									bendAccess.qualifiesAccess(
+											new ThisAccess("this")))).qualifiesAccess(va);
+						}
+					}
+				} else {
+					if(!bend.equals(qualifier.type()))
+						throw new RefactoringException("cannot access variable");
+					if(source.equals(qualifier.type()))
+						access = va;
+					Access sourceAccess = source.createLockedAccess();
+					va.lock(target);
+					parent.affectedByUnlock(sourceAccess, va);
+					// "super" is treated as a normal expression in JastAddJ, but it actually isn't
+					if(qualifier.isSuperAccess())
+						qualifier = qualifier.convertSuperToThis();
+					access = new ParExpr(new CastExpr(sourceAccess, qualifier)).qualifiesAccess(va);
+				}
+			}
+		}
+		access.flushCache();
+		if (qualifier != null) {
+			qualifier.flushCaches();
+		}
+		if (to_replace.equals(access))
+			return access;
+		return (Access) parent.with(access);
+	}
+
+
+}

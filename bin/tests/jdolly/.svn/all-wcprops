@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly
+END
+SafeRefactorLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/SafeRefactorLogger.java
+END
+MoveMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/MoveMethodTest.java
+END
+RenameMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/RenameMethodTest.java
+END
+PushDownMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/PushDownMethodTest.java
+END
+EncapsulateFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/EncapsulateFieldTest.java
+END
+RenameTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/RenameTypeTest.java
+END
+RenameFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/RenameFieldTest.java
+END
+PushDownFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/PushDownFieldTest.java
+END
+FileUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/FileUtil.java
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/Test.java
+END
+TestLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/TestLogger.java
+END
+PullUpMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/PullUpMethodTest.java
+END
+BCCategorizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/BCCategorizer.java
+END
+PullUpFieldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/PullUpFieldTest.java
+END
+RunTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/RunTests.java
+END
+AddParameterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/AddParameterTest.java
+END
+Coverage.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1316/source/jrrt15_01_14/tests/jdolly/Coverage.java
+END

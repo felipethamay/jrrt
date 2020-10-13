@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints
+END
+SmartLocking.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/SmartLocking.jrag
+END
+CollectTypeConstraints.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/CollectTypeConstraints.jrag
+END
+AdjustVirtualCalls.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/AdjustVirtualCalls.jrag
+END
+Predicate.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/Predicate.jrag
+END
+TypeConstraintSolving.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/TypeConstraintSolving.jrag
+END
+TypeConstraints.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/TypeConstraints.jrag
+END
+ExtractInterface.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypeConstraints/ExtractInterface.jrag
+END

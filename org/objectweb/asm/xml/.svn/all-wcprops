@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml
+END
+Processor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/Processor.java
+END
+SAXFieldAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/SAXFieldAdapter.java
+END
+SAXClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/SAXClassAdapter.java
+END
+SAXAnnotationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/SAXAnnotationAdapter.java
+END
+SAXCodeAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/SAXCodeAdapter.java
+END
+asm-xml.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/asm-xml.dtd
+END
+ASMContentHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/ASMContentHandler.java
+END
+SAXAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/SAXAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/xml/package.html
+END

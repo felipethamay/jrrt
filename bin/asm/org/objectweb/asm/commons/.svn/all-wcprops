@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons
+END
+RemappingSignatureAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/RemappingSignatureAdapter.java
+END
+RemappingClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/RemappingClassAdapter.java
+END
+Remapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/Remapper.java
+END
+StaticInitMerger.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/StaticInitMerger.java
+END
+RemappingAnnotationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/RemappingAnnotationAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/package.html
+END
+Method.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/Method.java
+END
+JSRInlinerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/JSRInlinerAdapter.java
+END
+TableSwitchGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/TableSwitchGenerator.java
+END
+LocalVariablesSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/LocalVariablesSorter.java
+END
+InstructionAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/InstructionAdapter.java
+END
+RemappingMethodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/RemappingMethodAdapter.java
+END
+SimpleRemapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/SimpleRemapper.java
+END
+AnalyzerAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/AnalyzerAdapter.java
+END
+SerialVersionUIDAdder.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/SerialVersionUIDAdder.java
+END
+RemappingFieldAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/RemappingFieldAdapter.java
+END
+GeneratorAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/GeneratorAdapter.java
+END
+CodeSizeEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/CodeSizeEvaluator.java
+END
+TryCatchBlockSorter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/TryCatchBlockSorter.java
+END
+AdviceAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/commons/AdviceAdapter.java
+END

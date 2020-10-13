@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion
+END
+MoveMemberTypeToToplevel.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion/MoveMemberTypeToToplevel.jrag
+END
+AnonymousClassToMemberClass.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion/AnonymousClassToMemberClass.jrag
+END
+LocalClassToMemberClass.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion/LocalClassToMemberClass.jrag
+END
+AnonymousClassToLocalClass.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion/AnonymousClassToLocalClass.jrag
+END
+CloseOverVariables.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1313/source/jrrt15_01_14/TypePromotion/CloseOverVariables.jrag
+END

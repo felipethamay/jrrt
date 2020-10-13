@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks
+END
+BinaryMonitorActions.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/BinaryMonitorActions.jrag
+END
+ConcurrencyAPI.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/ConcurrencyAPI.jrag
+END
+MonitorAction.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/MonitorAction.jrag
+END
+TypeAnalysis.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/TypeAnalysis.jrag
+END
+FieldAnalysis.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/FieldAnalysis.jrag
+END
+Monitor.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/Locks/Monitor.jrag
+END

@@ -1,0 +1,385 @@
+10
+
+dir
+1312
+http://spg.dsc.ufcg.edu.br/svn/source/jrrt15_01_14
+http://spg.dsc.ufcg.edu.br/svn
+
+
+
+2014-01-17T12:22:15.688017Z
+1312
+melina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0f13e986-d809-4a31-b782-dbd1014f6ca6
+
+
+
+
+
+
+
+immediates
+
+frontend
+dir
+
+PullUp
+dir
+
+SelfEncapsulateField
+dir
+
+rtxf
+dir
+
+EPL.html
+file
+1313
+
+
+
+2014-01-16T17:31:16.000000Z
+d89d4b00cdef22c42c8c48f9805cc333
+2014-01-17T12:26:13.919828Z
+1313
+melina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12558
+
+IntroduceIndirection
+dir
+
+.project
+file
+1313
+
+
+
+2014-01-16T17:31:16.000000Z
+03f032f7a19edf7aa2d16941d2df7058
+2014-01-17T12:26:13.919828Z
+1313
+melina
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+568
+
+AST
+dir
+
+Concurrency
+dir
+
+ant.settings.template
+file
+1313
+
+
+
+2014-01-16T17:31:16.000000Z
+266b4dc073eba05861d31e62ed73dfb5
+2014-01-17T12:26:13.919828Z
+1313
+melina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+106
+
+build.xml
+file
+1313
+
+
+
+2014-01-16T18:46:39.000000Z
+9511dcbe2475f028c370de00f78de0bb
+2014-01-17T12:26:13.919828Z
+1313
+melina
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10850
+
+Renaming
+dir
+
+.classpath
+file
+1313
+
+
+
+2014-01-16T20:19:06.000000Z
+9bc92685bd1f280e6077afcaa04f5e8f
+2014-01-17T12:26:13.919828Z
+1313
+melina
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20446
+
+JRRT.java
+file
+1313
+
+
+
+2014-01-16T17:31:16.000000Z
+8e9ab13057fe93283d7db2bdbce499d3
+2014-01-17T12:26:13.919828Z
+1313
+melina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1019
+
+tests
+dir
+
+LanguageExtensions
+dir
+
+undo
+dir
+
+doc
+dir
+
+lib
+dir
+
+StmtManipulation
+dir
+
+TypeConstraints
+dir
+
+ExtractMethod
+dir
+
+AccessibilityConstraints
+dir
+
+InlineMethod
+dir
+
+PromoteTempToField
+dir
+
+IntroduceParameterObject
+dir
+
+IntroduceFactory
+dir
+
+MakeMethodStatic
+dir
+
+TypePromotion
+dir
+
+scanner
+dir
+
+parser
+dir
+
+README
+file
+1313
+
+
+
+2014-01-16T17:31:16.000000Z
+9c89cb41726640a7c0ae5605b2795e50
+2014-01-17T12:26:13.919828Z
+1313
+melina
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3757
+
+ExtractClass
+dir
+
+ExtractTemp
+dir
+
+beaver
+dir
+
+InlineTemp
+dir
+
+Move
+dir
+
+PushDown
+dir
+
+Flow
+dir
+
+ChangeMethodSignature
+dir
+
+Naming
+dir
+
+Locks
+dir
+
+util
+dir
+
+.settings
+dir
+

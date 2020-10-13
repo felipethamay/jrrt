@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown
+END
+MakeTypeAbstract.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown/MakeTypeAbstract.jrag
+END
+FoldSynchronized.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown/FoldSynchronized.jrag
+END
+UnfoldSynchronized.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown/UnfoldSynchronized.jrag
+END
+PushDownMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown/PushDownMethod.jrag
+END
+PushDownField.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1313/source/jrrt15_01_14/PushDown/PushDownField.jrag
+END

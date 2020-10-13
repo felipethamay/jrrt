@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractClass
+END
+ExtractClass.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractClass/ExtractClass.jrag
+END
+InsertUnusedType.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractClass/InsertUnusedType.jrag
+END

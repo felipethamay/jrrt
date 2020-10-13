@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints
+END
+ChangeAccessibility.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/ChangeAccessibility.jrag
+END
+AccessibilityConstraints.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/AccessibilityConstraints.jrag
+END
+SolverCream.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/SolverCream.jrag
+END
+AccessibilityGlue.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/AccessibilityGlue.jrag
+END
+Alpha.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/Alpha.jrag
+END
+CollectAccessibilityConstraints.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/CollectAccessibilityConstraints.jrag
+END
+SolverChoco.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/SolverChoco.jrag
+END
+PartialOrder.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1313/source/jrrt15_01_14/AccessibilityConstraints/PartialOrder.jrag
+END

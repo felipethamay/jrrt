@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis
+END
+Subroutine.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/Subroutine.java
+END
+Interpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/Interpreter.java
+END
+AnalyzerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/AnalyzerException.java
+END
+SmallSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/SmallSet.java
+END
+SourceInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/SourceInterpreter.java
+END
+Analyzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/Analyzer.java
+END
+BasicInterpreter.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/BasicInterpreter.java
+END
+SimpleVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/SimpleVerifier.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/Frame.java
+END
+Value.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/Value.java
+END
+BasicVerifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/BasicVerifier.java
+END
+SourceValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/SourceValue.java
+END
+BasicValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/BasicValue.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/tree/analysis/package.html
+END

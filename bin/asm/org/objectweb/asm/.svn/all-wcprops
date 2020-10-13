@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm
+END
+MethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/MethodVisitor.java
+END
+ClassWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/ClassWriter.java
+END
+FieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/FieldVisitor.java
+END
+Attribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Attribute.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Edge.java
+END
+AnnotationWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/AnnotationWriter.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Handler.java
+END
+MethodWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/MethodWriter.java
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Label.java
+END
+FieldWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/FieldWriter.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Type.java
+END
+Context.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Context.java
+END
+ClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/ClassVisitor.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/ByteVector.java
+END
+ClassReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/ClassReader.java
+END
+Frame.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Frame.java
+END
+AnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/AnnotationVisitor.java
+END
+Handle.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Handle.java
+END
+Opcodes.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Opcodes.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/Item.java
+END

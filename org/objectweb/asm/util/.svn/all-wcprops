@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util
+END
+ASMifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/ASMifier.java
+END
+TraceSignatureVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/TraceSignatureVisitor.java
+END
+Textifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/Textifiable.java
+END
+CheckSignatureAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/CheckSignatureAdapter.java
+END
+Textifier.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/Textifier.java
+END
+TraceClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/TraceClassVisitor.java
+END
+CheckClassAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/CheckClassAdapter.java
+END
+TraceAnnotationVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/TraceAnnotationVisitor.java
+END
+CheckAnnotationAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/CheckAnnotationAdapter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/package.html
+END
+TraceMethodVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/TraceMethodVisitor.java
+END
+CheckMethodAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/CheckMethodAdapter.java
+END
+TraceFieldVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/TraceFieldVisitor.java
+END
+CheckFieldAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/CheckFieldAdapter.java
+END
+Printer.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/Printer.java
+END
+ASMifiable.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/util/ASMifiable.java
+END

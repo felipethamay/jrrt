@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1313/source/jrrt15_01_14/util
+END
+Navigation.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Navigation.jrag
+END
+ExprExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/ExprExt.jrag
+END
+LocalVariable.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/LocalVariable.jrag
+END
+RefactoringException.jadd
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/RefactoringException.jadd
+END
+ModifiersExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/ModifiersExt.jrag
+END
+preamble.flex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/preamble.flex
+END
+AssignExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/AssignExt.jrag
+END
+VariableExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/VariableExt.jrag
+END
+WhiteSpace.flex
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/WhiteSpace.flex
+END
+BlockExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/BlockExt.jrag
+END
+FileRange.jadd
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/FileRange.jadd
+END
+JastAddJOffsets.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/JastAddJOffsets.jrag
+END
+Uses.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Uses.jrag
+END
+PackageDecl.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/PackageDecl.jrag
+END
+MethodAccessExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/MethodAccessExt.jrag
+END
+TypeAccessExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/TypeAccessExt.jrag
+END
+Declaration.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Declaration.jrag
+END
+Inheritance.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Inheritance.jrag
+END
+JastAddJComments.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/JastAddJComments.jrag
+END
+Call.jadd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Call.jadd
+END
+Purity.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Purity.jrag
+END
+Precedence.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Precedence.jrag
+END
+Refresh.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Refresh.jrag
+END
+CompilationUnitExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/CompilationUnitExt.jrag
+END
+LabelExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/LabelExt.jrag
+END
+Comments.flex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Comments.flex
+END
+preamble.parser
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/preamble.parser
+END
+ParameterExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/ParameterExt.jrag
+END
+MethodExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/MethodExt.jrag
+END
+TypeExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/TypeExt.jrag
+END
+DefaultValues.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/DefaultValues.jrag
+END
+ConstructorExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/ConstructorExt.jrag
+END
+Nesting.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Nesting.jrag
+END
+Overriding.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Overriding.jrag
+END
+TypeVariableExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/TypeVariableExt.jrag
+END
+Pair.jadd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Pair.jadd
+END
+Errors.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Errors.jrag
+END
+Or.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Or.jrag
+END
+GenericsExt.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/GenericsExt.jrag
+END
+ASTReplace.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/ASTReplace.jrag
+END
+PackageDecl.ast
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/PackageDecl.ast
+END
+AST.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/AST.jrag
+END
+Visibility.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/util/Visibility.jrag
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod
+END
+ClosureConversion.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/ClosureConversion.jrag
+END
+EliminateOutParams.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/EliminateOutParams.jrag
+END
+ExtractBlock.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/ExtractBlock.jrag
+END
+ExtractClosureToMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/ExtractClosureToMethod.jrag
+END
+ExtractMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/ExtractMethod.jrag
+END
+WrapBlockIntoClosure.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractMethod/WrapBlockIntoClosure.jrag
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod
+END
+InlineMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/InlineMethod.jrag
+END
+PullStatementFromBlock.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/PullStatementFromBlock.jrag
+END
+InlineMethodAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/InlineMethodAccess.jrag
+END
+IntroduceOutParameter.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/IntroduceOutParameter.jrag
+END
+InlineAnonymousMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/InlineAnonymousMethod.jrag
+END
+InlineBlock.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/InlineBlock.jrag
+END
+OpenVariables.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1313/source/jrrt15_01_14/InlineMethod/OpenVariables.jrag
+END

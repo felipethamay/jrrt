@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature
+END
+IntroduceParameter.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature/IntroduceParameter.jrag
+END
+RemoveParameter.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature/RemoveParameter.jrag
+END
+PermuteParameters.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature/PermuteParameters.jrag
+END
+ChangeParameterType.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature/ChangeParameterType.jrag
+END
+AddParameter.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/ChangeMethodSignature/AddParameter.jrag
+END

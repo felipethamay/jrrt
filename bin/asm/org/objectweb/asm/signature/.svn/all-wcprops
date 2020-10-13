@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/signature
+END
+SignatureVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/signature/SignatureVisitor.java
+END
+SignatureReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/signature/SignatureReader.java
+END
+SignatureWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/signature/SignatureWriter.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/signature/package.html
+END

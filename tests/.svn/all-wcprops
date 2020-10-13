@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests
+END
+UtilTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/UtilTests.java
+END
+ProgramFactory.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ProgramFactory.jrag
+END
+MoveMemberTypeToToplevelTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/MoveMemberTypeToToplevelTests.java
+END
+InlineMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/InlineMethodTests.java
+END
+ExtractBlock.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractBlock.xml
+END
+PullUpMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/PullUpMethodTests.java
+END
+PromoteTempToFieldTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/PromoteTempToFieldTests.java
+END
+ExtractConstantTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractConstantTests.java
+END
+ExtractBlockTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractBlockTests.java
+END
+MakeMethodStaticTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/MakeMethodStaticTests.java
+END
+ChangeParameterTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ChangeParameterTypeTests.java
+END
+InlineConstantTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/InlineConstantTests.java
+END
+ExtractInterfaceTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractInterfaceTests.java
+END
+ExtractClass.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractClass.xml
+END
+ExtractClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractClassTests.java
+END
+ExtractTempTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractTempTests.java
+END
+LocalClassToMemberClassTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/LocalClassToMemberClassTests.java
+END
+InlineTempTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/InlineTempTests.java
+END
+CompileHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/CompileHelper.java
+END
+RenameTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameTests.java
+END
+RenameVariable.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameVariable.xml
+END
+BrazilianTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/BrazilianTests.java
+END
+RenameVariableTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameVariableTests.java
+END
+rtxf.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/rtxf.xsd
+END
+MakeMethodAbstract.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/MakeMethodAbstract.java
+END
+RenamePackage.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenamePackage.xml
+END
+MoveMembersTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/MoveMembersTests.java
+END
+RemoveUnusedMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RemoveUnusedMethodTests.java
+END
+SelfEncapsulateFieldTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/SelfEncapsulateFieldTests.java
+END
+RenamePackageTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenamePackageTests.java
+END
+rtxf.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/rtxf.xsl
+END
+AddParameterTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/AddParameterTests.java
+END
+AllTestsWithUndo.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/AllTestsWithUndo.java
+END
+rtxf.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/rtxf.dtd
+END
+Testing.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/Testing.jrag
+END
+RTXF.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RTXF.jrag
+END
+RenameMethod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameMethod.xml
+END
+RenameType.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameType.xml
+END
+MoveMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/MoveMethodTests.java
+END
+RenameMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameMethodTests.java
+END
+PushDownMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/PushDownMethodTests.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/AllTests.java
+END
+RenameTypeTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/RenameTypeTests.java
+END
+ExtractMethodTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/tests/ExtractMethodTests.java
+END

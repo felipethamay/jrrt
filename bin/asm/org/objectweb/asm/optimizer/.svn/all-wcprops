@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer
+END
+shrink-annotations.properties
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink-annotations.properties
+END
+ClassOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/ClassOptimizer.java
+END
+shrink-resize.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink-resize.properties
+END
+ClassConstantsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/ClassConstantsCollector.java
+END
+shrink.properties
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink.properties
+END
+AnnotationConstantsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/AnnotationConstantsCollector.java
+END
+jdk1.3.1_19.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/jdk1.3.1_19.txt.gz
+END
+JarOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/JarOptimizer.java
+END
+MethodOptimizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/MethodOptimizer.java
+END
+ConstantPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/ConstantPool.java
+END
+shrink-writer.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink-writer.properties
+END
+shrink-frames.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink-frames.properties
+END
+MethodConstantsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/MethodConstantsCollector.java
+END
+Shrinker.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/Shrinker.java
+END
+FieldConstantsCollector.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/FieldConstantsCollector.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/Constant.java
+END
+shrink-signatures.properties
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/shrink-signatures.properties
+END
+NameMapping.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/NameMapping.java
+END
+jdk1.2.2_017.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1251/source/safeRefactorImpact_v1.1/src/org/objectweb/asm/optimizer/jdk1.2.2_017.txt.gz
+END

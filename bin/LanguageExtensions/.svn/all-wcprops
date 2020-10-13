@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions
+END
+EliminateVarargs.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/EliminateVarargs.jrag
+END
+BareParMethodAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/BareParMethodAccess.jrag
+END
+FreshVariables.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/FreshVariables.jrag
+END
+ReturnVoid.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/ReturnVoid.jrag
+END
+LanguageExtensions.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/LanguageExtensions.jrag
+END
+FreshVariables.ast
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/FreshVariables.ast
+END
+DemandFinalQualifier.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/DemandFinalQualifier.jrag
+END
+With.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/With.jrag
+END
+AnonymousMethods.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/AnonymousMethods.jrag
+END
+With.ast
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/With.ast
+END
+AnonymousMethods.ast
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/AnonymousMethods.ast
+END
+MakeConversionExplicit.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/MakeConversionExplicit.jrag
+END
+ArrayInits.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/ArrayInits.jrag
+END
+LockedOverriding.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/LockedOverriding.jrag
+END
+UnfoldAssign.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/1313/source/jrrt15_01_14/LanguageExtensions/UnfoldAssign.jrag
+END

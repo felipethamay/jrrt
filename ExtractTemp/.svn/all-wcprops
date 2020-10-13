@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp
+END
+ExtractTemp.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/ExtractTemp.jrag
+END
+MergeVarDecl.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/MergeVarDecl.jrag
+END
+ExtractAssignment.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/ExtractAssignment.jrag
+END
+ExtractConstant.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/ExtractConstant.jrag
+END
+MakeFinal.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/MakeFinal.jrag
+END
+IntroduceUnusedLocal.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/1313/source/jrrt15_01_14/ExtractTemp/IntroduceUnusedLocal.jrag
+END

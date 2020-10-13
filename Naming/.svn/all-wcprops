@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming
+END
+LockedSingleStaticImportDecl.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedSingleStaticImportDecl.jrag
+END
+LockedPackageAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedPackageAccess.jrag
+END
+VarNesting.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/VarNesting.jrag
+END
+AccessMethod.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/AccessMethod.jrag
+END
+LockedMethodAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedMethodAccess.jrag
+END
+LockedTypeAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedTypeAccess.jrag
+END
+AccessVariable.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/AccessVariable.jrag
+END
+LockedConstructor.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedConstructor.jrag
+END
+Rename.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/Rename.jrag
+END
+LockedVariableAccess.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/LockedVariableAccess.jrag
+END
+Lookup.jrag
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1313/source/jrrt15_01_14/Naming/Lookup.jrag
+END
